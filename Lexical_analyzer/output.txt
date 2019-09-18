@@ -1,0 +1,6 @@
+Keyword: int,float,if,else
+identifier: a,b,c,kkkk,d,e
+Math operator: -,+
+Logical operator: >
+Numeric values: 5.0,6.0,2.0,6.0
+Others: , ; ( ) { }
